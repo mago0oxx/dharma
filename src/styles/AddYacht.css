@@ -1,0 +1,45 @@
+.add-yacht-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-yacht-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .add-yacht-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-yacht-form label {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .add-yacht-form input,
+  .add-yacht-form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-yacht-form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-yacht-form button:hover {
+    background-color: #0056b3;
+  }
+  

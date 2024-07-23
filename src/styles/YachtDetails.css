@@ -1,0 +1,24 @@
+.yacht-details {
+    text-align: center;
+    padding: 20px;
+}
+
+.yacht-details img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.yacht-details button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.yacht-details button:hover {
+    background-color: #555;
+}
